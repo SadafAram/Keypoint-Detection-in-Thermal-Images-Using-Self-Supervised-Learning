@@ -8,7 +8,6 @@ Leveraging Self-Supervised Learning for Accurate Facial Keypoint Detection in Th
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Credits](#credits)
 - [License](#license)
 
 
