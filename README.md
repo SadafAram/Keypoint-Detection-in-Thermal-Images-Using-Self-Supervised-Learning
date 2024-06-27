@@ -44,11 +44,6 @@ An illustrative example of the outcomes achieved through our proposed downstream
 
 ![Image Description](Docs/Final_result.jpg)
 
-## Credits
-
-    Created by Poorya Aghaomidi
-    Based on project requirements for Tarbiat Modares University
-
 
 ## License
 If you use this repository or find the code useful for your research, please consider citing the associated paper.
